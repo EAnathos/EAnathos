@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on NextJS and TypeScript.<br>
 
-- 📫 How to reach me **Anathos#7090**
+- 📫 How to reach me **.anathos**
 
 <br/> 
 
