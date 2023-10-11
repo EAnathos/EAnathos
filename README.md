@@ -1,25 +1,13 @@
 <h3 align="center"> Hello, I'm Anathos 👋</h3>
-<h2 align="center"> A 18 years old Programmer and Developer</h2>
+<h2 align="center"> A 19 years old Programmer and Developer</h2>
 
 </p>
 
-- 🔭 I’m currently working on discord bots and android applications.<br>
-
-- 🌱 I’m currently learning and improving app development and languages(js,kotlin,etc...).<br>
+- 🔭 I’m currently working on NextJS and TypeScript.<br>
 
 - 📫 How to reach me **Anathos#7090**
 
-<!--
-- 👨‍💻 All of My Upcoming and Current Projects are and will be available <a href="https://babyico.xyz/" style="color: #F786AE; font-weight: bold;">Here</a>
-  
-- 🎨 I know creating and maintaining websites, discord bots, API matters, 3D models, blender designs, games, softwares and etc...<br>
-     + Extra: I sell finished projects like DC Bots, websites, and etc. 
-                        <br>you can find them in my shop here -> [Shop.babyico.xyz](https://Shop.babyico.xyz)
-     + Extra: You can get access to my work and projects such as
-             <br>snippets or files for DC Bots, web, apps, etc... here -> [Patreon.babyico.xyz](https://Patreon.babyico.xyz)
--->
 <br/> 
-
 
 ## My Skills 💢
 <table><tr><td valign="top" width="50%">
