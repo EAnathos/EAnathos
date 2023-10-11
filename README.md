@@ -40,12 +40,8 @@
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>
-  <!--<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>-->
-  <a href="http://remix.run/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=remix" alt="remix" height="50" /></a>
   <a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
-  <a href="https://developer.android.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="InteliJ" height="50" /></a>
-<a href="https://www.eclipse.org" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" height="50" /></a>
 </div>
   
 </td></tr></table> 
