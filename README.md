@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and discord bots and blockchain stuffs.
+- 🤔 &nbsp; Exploring new technologies, discord bots and blockchain stuffs.
 - 🎓 &nbsp; Studying Computer Science and Mathematics in France.
 - 💼 &nbsp; Only student (19 years old) at the moment
 - 🌱 &nbsp; Learning more about Web development.
