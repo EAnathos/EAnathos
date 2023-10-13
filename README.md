@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/8jJ6oPW.gif">
+<img src="https://i.imgur.com/tZklAbb.gif">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
