@@ -34,15 +34,18 @@
 
 <h3> 📚 &nbsp;Learning </h3>
 
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
-![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=363636)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
+**Currently Learning:** &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
 
+
+**Planning to Learn:** &nbsp;
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=363636)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <h3> 📊 &nbsp;Github Stats </h3>
 
