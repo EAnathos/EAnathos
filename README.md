@@ -50,8 +50,8 @@
 <h3> 📊 &nbsp;Github Stats </h3>
 
 <a href="https://github.com/EAnathos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=radical&layout=compact" />
 </a>
 
 <!--
