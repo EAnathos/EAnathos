@@ -26,6 +26,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=026AA7)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Trello](https://img.shields.io/badge/Trello-333333?style=flat&logo=Trello&logoColor=026AA7)
@@ -38,16 +39,12 @@
 <h3> 📚 &nbsp;Learning </h3>
 
 **Currently Learning:** &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
 
 **Planning to Learn:** &nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=363636)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
 
 <h3> 📊 &nbsp;Github Stats </h3>
 
