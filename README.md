@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, discord bots and blockchain stuff.
 - 🎓 &nbsp; Studying Computer Science and Mathematics in France.
-- 🌱 &nbsp; Learning more about Web development.
+- 🌱 &nbsp; Learning more about automation testing.
 - 🐜 &nbsp; Passionate about ants.
 - 📫 &nbsp; Reach me on discord : .anathos
 - 🧪 &nbsp; Learning to perform diverse technical tests.
