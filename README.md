@@ -7,7 +7,6 @@
 - 🌱 &nbsp; Learning more about automation testing.
 - 🐜 &nbsp; Passionate about ants.
 - 📫 &nbsp; Reach me on discord : .anathos
-- 🧪 &nbsp; Learning to perform diverse technical tests.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
