@@ -1,60 +1,108 @@
-<img src="https://i.imgur.com/tZklAbb.gif">
+<div align="center">
+  <img src="https://i.imgur.com/tZklAbb.gif" alt="banner" />
+  <p>Étudiant en Master Développement Full Stack · Testeur automaticien · Macrophotographe</p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-anathos.me-333333?style=flat&logo=astro)](https://anathos.me)
+  [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
+  [![Discord](https://img.shields.io/badge/Discord-.anathos-333333?style=flat&logo=discord)](https://discord.com/)
+  [![Email](https://img.shields.io/badge/Email-eanathos@gmail.com-333333?style=flat&logo=gmail)](mailto:eanathos@gmail.com)
+</div>
 
-- 🤔 &nbsp; Exploring new technologies, discord bots and blockchain stuff.
-- 🎓 &nbsp; Learning computer science and IT project management in France.
-- 🌱 &nbsp; Learning more about automation testing.
-- 🐜 &nbsp; Passionate about ants.
-- 📫 &nbsp; Reach me on discord : .anathos
+---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🧑‍💻 À propos
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 📱 &nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-- 🧪 &nbsp;
-  ![RobotFramework](https://img.shields.io/badge/RobotFramework-333333?style=flat&logo=RobotFramework)
-  ![Selenium](https://img.shields.io/badge/Selenium-333333?style=flat&logo=Selenium)
-  ![Playwright](https://img.shields.io/badge/Playwright-333333?style=flat&logo=Playwright)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Trello](https://img.shields.io/badge/Trello-333333?style=flat&logo=Trello&logoColor=026AA7)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=FF5722)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&&logo=android%20studio)
-  ![Expo](https://img.shields.io/badge/Expo-333333?style=flat&logo=Expo)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=Insomnia)
-  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman)
+Pour me décrire brièvement : je suis légèrement obsédé par la clean architecture, ce qui peut être un avantage quand il faut tenir un projet sur la durée, et un inconvénient quand il faut juste livrer vite.
 
-<h3> 📚 &nbsp;Learning </h3>
+- 🎓 Master Développement Full Stack (France)
+- 🧪 Testeur automaticien : Robot Framework & Playwright
+- 🔭 En veille : Solidity / Blockchain
+- 🐜 Éleveur de fourmis & macrophotographe animalier
 
-**Currently Learning:** &nbsp;
-  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)
+---
 
-**Planning to Learn:** &nbsp;
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=363636)
+## 🛠 Stack technique
 
-<h3> 📊 &nbsp;Github Stats </h3>
+### Langages
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
-<a href="https://github.com/EAnathos">
+### Web & Frameworks
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+### Bases de données
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+
+### Testing & CI/CD
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
+![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+### Outils
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+---
+
+## 🚀 Projets
+
+### [ContriBot](https://github.com/ContriBot-Discord)
+> Bot Discord pour animer une communauté, avec système de récompenses et tableau de bord admin.
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+---
+
+### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/ant-id-training)
+> 🐜 Plateforme d'entraînement pour identifier les espèces de fourmis, avec parcours progressifs.
+
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+
+---
+
+## 📷 Macrophotographie
+
+> Un regard sur les détails. Mon travail se concentre sur les arthropodes dans leur environnement naturel.
+
+**Matériel :**
+- 📷 Olympus OM-D E-M5 Mark II
+- 🔭 Olympus M.Zuiko 60mm F2.8 Macro
+- ⚡ Godox V350-O + diffuseur
+- 🖥  DarkTable (post-production)
+
+[![Portfolio photo](https://img.shields.io/badge/Portfolio_photo-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photo-portfolio)
+[![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=radical&layout=compact" />
-</a>
+</div>
