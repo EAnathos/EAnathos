@@ -95,7 +95,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 - ⚡ Godox V350-O + diffuseur
 - 🖥  DarkTable (post-production)
 
-[![Portfolio photo](https://img.shields.io/badge/Portfolio_photo-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photo-portfolio)
+[![Portfolio photo](https://img.shields.io/badge/Portfolio_photo-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photographie)
 [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
 
 ---
