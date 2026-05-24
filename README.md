@@ -76,12 +76,14 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 
 ---
 
-### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/ant-id-training)
-> 🐜 Plateforme d'entraînement pour identifier les espèces de fourmis, avec parcours progressifs.
+### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
+> 🐜 Monorepo fullstack pour l'identification des fourmis. Architecture testable, API structurée, CI/CD ready.
 
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express%205-000?style=flat&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ---
 
