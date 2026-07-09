@@ -69,6 +69,17 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 
 ## 🚀 Projects
 
+### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
+> 🐜 Fullstack monorepo for ant identification. Testable architecture, structured API, CI/CD ready.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express%205-000?style=flat&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
+---
+
 ### [🧩 Puzzle Multiplayer](https://github.com/EAnathos/puzzle-multiplayer)
 > Real-time collaborative jigsaw puzzle. Several players assemble the same image together — no account needed: join a game with a code and a nickname, and watch cursors and pieces move live. Server-authoritative game state, magnetic piece snapping, three difficulty levels (25 / 100 / 400 pieces).
 
@@ -86,17 +97,6 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
----
-
-### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
-> 🐜 Fullstack monorepo for ant identification. Testable architecture, structured API, CI/CD ready.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
-![Express](https://img.shields.io/badge/-Express%205-000?style=flat&logo=express)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ---
 
