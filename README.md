@@ -5,7 +5,6 @@
   🇬🇧 English · [🇫🇷 Français](README.fr.md)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-anathos.me-333333?style=flat&logo=astro)](https://anathos.me)
-  [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
   [![Discord](https://img.shields.io/badge/Discord-.anathos-333333?style=flat&logo=discord)](https://discord.com/)
   [![Email](https://img.shields.io/badge/Email-eanathos@gmail.com-333333?style=flat&logo=gmail)](mailto:eanathos@gmail.com)
 </div>
@@ -112,6 +111,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 
 [![Photo portfolio](https://img.shields.io/badge/Photo_portfolio-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photographie)
 [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
+[![iNaturalist](https://img.shields.io/badge/iNaturalist-anathos__-333333?style=flat&logo=inaturalist)](https://www.inaturalist.org/people/anathos_)
 
 ---
 
