@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/tZklAbb.gif" alt="banner" />
-  <p>Étudiant en Master Développement Full Stack · Testeur automaticien · Macrophotographe</p>
+  <p>Full Stack Development Master's student · Test automation engineer · Macrophotographer</p>
+
+  🇬🇧 English · [🇫🇷 Français](README.fr.md)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-anathos.me-333333?style=flat&logo=astro)](https://anathos.me)
   [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
@@ -10,20 +12,20 @@
 
 ---
 
-## 🧑‍💻 À propos
+## 🧑‍💻 About
 
-Pour me décrire brièvement : je suis légèrement obsédé par la clean architecture, ce qui peut être un avantage quand il faut tenir un projet sur la durée, et un inconvénient quand il faut juste livrer vite.
+To describe myself briefly: I'm slightly obsessed with clean architecture, which can be an asset when a project needs to last, and a drawback when you just have to ship fast.
 
-- 🎓 Master Développement Full Stack (France)
-- 🧪 Testeur automaticien : Robot Framework & Playwright
-- 🔭 En veille : Solidity / Blockchain
-- 🐜 Éleveur de fourmis & macrophotographe animalier
+- 🎓 Full Stack Development Master's degree (France)
+- 🧪 Test automation engineer: Robot Framework & Playwright
+- 🔭 Currently exploring: Solidity / Blockchain
+- 🐜 Ant keeper & wildlife macrophotographer
 
 ---
 
-## 🛠 Stack technique
+## 🛠 Tech stack
 
-### Langages
+### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -39,7 +41,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-### Bases de données
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -53,7 +55,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-### Outils
+### Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
@@ -65,10 +67,21 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
+
+### [🧩 Puzzle Multiplayer](https://github.com/EAnathos/puzzle-multiplayer)
+> Real-time collaborative jigsaw puzzle. Several players assemble the same image together — no account needed: join a game with a code and a nickname, and watch cursors and pieces move live. Server-authoritative game state, magnetic piece snapping, three difficulty levels (25 / 100 / 400 pieces).
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+
+---
 
 ### [ContriBot](https://github.com/ContriBot-Discord)
-> Bot Discord pour animer une communauté, avec système de récompenses et tableau de bord admin.
+> Discord bot to keep a community alive, with a reward system and an admin dashboard.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
@@ -77,7 +90,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ---
 
 ### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
-> 🐜 Monorepo fullstack pour l'identification des fourmis. Architecture testable, API structurée, CI/CD ready.
+> 🐜 Fullstack monorepo for ant identification. Testable architecture, structured API, CI/CD ready.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
@@ -87,17 +100,17 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 
 ---
 
-## 📷 Macrophotographie
+## 📷 Macrophotography
 
-> Un regard sur les détails. Mon travail se concentre sur les arthropodes dans leur environnement naturel.
+> A close look at the details. My work focuses on arthropods in their natural environment.
 
-**Matériel :**
+**Gear:**
 - 📷 Olympus OM-D E-M5 Mark II
 - 🔭 Olympus M.Zuiko 60mm F2.8 Macro
-- ⚡ Godox V350-O + diffuseur
-- 🖥  DarkTable (post-production)
+- ⚡ Godox V350-O + diffuser
+- 🖥  DarkTable (post-processing)
 
-[![Portfolio photo](https://img.shields.io/badge/Portfolio_photo-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photographie)
+[![Photo portfolio](https://img.shields.io/badge/Photo_portfolio-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photographie)
 [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
 
 ---
