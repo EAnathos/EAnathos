@@ -69,7 +69,6 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 
 ## 🚀 Projets
 
-
 ### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
 > 🐜 Monorepo fullstack pour l'identification des fourmis. Architecture testable, API structurée, CI/CD ready.
 
@@ -100,7 +99,6 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ---
-
 
 ## 📷 Macrophotographie
 
