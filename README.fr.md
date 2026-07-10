@@ -84,8 +84,8 @@ Pour me décrire brièvement : je suis légèrement obsédé par l'architecture 
 
 ---
 
-### [🧩 Puzzle Multiplayer](https://github.com/EAnathos/puzzle-multiplayer)
-> Puzzle collaboratif en temps réel. Plusieurs joueurs assemblent la même image ensemble sans compte : rejoins une partie avec un code et un pseudo, et regarde les curseurs et les pièces bouger en direct. État de jeu autoritatif côté serveur, aimantation magnétique des pièces, trois niveaux de difficulté (25 / 100 / 400 pièces).
+### [Puzzle Multiplayer](https://puzzle-multiplayer.anathos.me/) · [GitHub](https://github.com/EAnathos/puzzle)
+> 🧩 Puzzle collaboratif en temps réel. Plusieurs joueurs assemblent la même image ensemble sans compte : rejoins une partie avec un code et un pseudo, et regarde les curseurs et les pièces bouger en direct. État de jeu autoritatif côté serveur, aimantation magnétique des pièces, trois niveaux de difficulté (25 / 100 / 400 pièces).
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
