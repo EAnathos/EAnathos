@@ -62,6 +62,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=claude)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
