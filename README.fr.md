@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/tZklAbb.gif" alt="banner" />
   <p>Étudiant en Master Développement Full Stack · Testeur automaticien · Macrophotographe</p>
 
-  [🇬🇧 English](README.md) · 🇫🇷 Français
+  🇫🇷 Français · [🇬🇧 English](README.md)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-anathos.me-333333?style=flat&logo=astro)](https://anathos.me)
   [![Discord](https://img.shields.io/badge/Discord-.anathos-333333?style=flat&logo=discord)](https://discord.com/)
@@ -13,11 +13,11 @@
 
 ## 🧑‍💻 À propos
 
-Pour me décrire brièvement : je suis légèrement obsédé par la clean architecture, ce qui peut être un avantage quand il faut tenir un projet sur la durée, et un inconvénient quand il faut juste livrer vite.
+Pour me décrire brièvement : je suis légèrement obsédé par l'architecture propre, ce qui peut être un atout quand un projet doit durer, et un défaut quand il faut juste livrer vite.
 
-- 🎓 Master Développement Full Stack (France)
+- 🎓 Master en Développement Full Stack (France)
 - 🧪 Testeur automaticien : Robot Framework & Playwright
-- 🔭 En veille : Solidity / Blockchain
+- 🔭 En cours d'exploration : Solidity / Blockchain
 - 🐜 Éleveur de fourmis & macrophotographe animalier
 
 ---
@@ -29,13 +29,17 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
 
-### Web & Frameworks
+### Web & Mobile
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socketdotio)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -46,7 +50,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 
-### Testing & CI/CD
+### Tests & CI/CD
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
 ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
@@ -69,7 +73,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ## 🚀 Projets
 
 ### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
-> 🐜 Monorepo fullstack pour l'identification des fourmis. Architecture testable, API structurée, CI/CD ready.
+> 🐜 Plateforme interactive pour apprendre l'identification des fourmis. Explore une base de données taxonomique structurée et entraîne-toi via des quiz d'identification basés sur des spécimens réels — l'outil que j'aurais aimé avoir en démarrant l'élevage. Architecture monorepo avec API strictement typée, couche de données Prisma, et services conteneurisés prêts pour un déploiement CI/CD.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
@@ -80,7 +84,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ---
 
 ### [🧩 Puzzle Multiplayer](https://github.com/EAnathos/puzzle-multiplayer)
-> Puzzle collaboratif en temps réel. Plusieurs joueurs assemblent ensemble la même image — sans compte : on rejoint une partie avec un code et un pseudo, et on voit les curseurs et les pièces bouger en direct. État de partie côté serveur (source de vérité), aimantation des pièces bien placées, trois niveaux de difficulté (25 / 100 / 400 pièces).
+> Puzzle collaboratif en temps réel. Plusieurs joueurs assemblent la même image ensemble sans compte : rejoins une partie avec un code et un pseudo, et regarde les curseurs et les pièces bouger en direct. État de jeu autoritatif côté serveur, aimantation magnétique des pièces, trois niveaux de difficulté (25 / 100 / 400 pièces).
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -91,7 +95,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 ---
 
 ### [ContriBot](https://github.com/ContriBot-Discord)
-> Bot Discord pour animer une communauté, avec système de récompenses et tableau de bord admin.
+> Bot Discord conçu pour maintenir des communautés actives grâce à un système de récompenses gamifié. Les membres gagnent des points via leur activité (messages, réactions, présence vocale) et débloquent des rôles configurables au fil des rangs.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
@@ -101,13 +105,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 
 ## 📷 Macrophotographie
 
-> Un regard sur les détails. Mon travail se concentre sur les arthropodes dans leur environnement naturel.
-
-**Matériel :**
-- 📷 Olympus OM-D E-M5 Mark II
-- 🔭 Olympus M.Zuiko 60mm F2.8 Macro
-- ⚡ Godox V350-O + diffuseur
-- 🖥  DarkTable (post-production)
+> Un regard rapproché sur les détails. Mon travail se concentre sur les arthropodes dans leur environnement naturel.
 
 [![Portfolio photo](https://img.shields.io/badge/Portfolio_photo-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photographie)
 [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
@@ -115,9 +113,9 @@ Pour me décrire brièvement : je suis légèrement obsédé par la clean archit
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=dark&show_icons=true&hide_border=true&bg_color=00000000&locale=fr" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=dark&layout=compact&hide_border=true&bg_color=00000000&locale=fr" />
 </div>
