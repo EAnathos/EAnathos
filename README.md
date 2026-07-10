@@ -74,7 +74,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ## 🚀 Projects
 
 ### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
-> 🐜 Interactive platform to learn ant identification. Browse a structured taxonomic database and train yourself through identification quizzes based on real specimens — the kind of tool I wish I had when I started keeping ants. Monorepo architecture with a strictly typed API, Prisma-backed data layer, and containerized services ready for CI/CD deployment.
+> 🐜 Interactive platform to learn ant identification. Browse a structured taxonomic database and train yourself through identification quizzes based on real specimens. The kind of tool I wish I had when I started keeping ants. Monorepo architecture with a strictly typed API, Prisma-backed data layer, and containerized services ready for CI/CD deployment.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
@@ -84,8 +84,8 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 
 ---
 
-### [🧩 Puzzle Multiplayer](https://github.com/EAnathos/puzzle-multiplayer)
-> Real-time collaborative jigsaw puzzle. Several players assemble the same image together — no account needed: join a game with a code and a nickname, and watch cursors and pieces move live. Server-authoritative game state, magnetic piece snapping, three difficulty levels (25 / 100 / 400 pieces).
+### [Puzzle Multiplayer](https://puzzle-multiplayer.anathos.me/) · [GitHub](https://github.com/EAnathos/puzzle)
+> 🧩 Real-time collaborative jigsaw puzzle. Several players assemble the same image together with no account needed: join a game with a code and a nickname, and watch cursors and pieces move live. Server-authoritative game state, magnetic piece snapping, three difficulty levels (25 / 100 / 400 pieces).
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
