@@ -29,6 +29,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
 
 ### Web & Frameworks
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
@@ -36,6 +37,9 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-333333?style=flat&logo=socketdotio)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -69,7 +73,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ## 🚀 Projects
 
 ### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
-> 🐜 Fullstack monorepo for ant identification. Testable architecture, structured API, CI/CD ready.
+> 🐜 Interactive platform to learn ant identification. Browse a structured taxonomic database and train yourself through identification quizzes based on real specimens — the kind of tool I wish I had when I started keeping ants. Monorepo architecture with a strictly typed API, Prisma-backed data layer, and containerized services ready for CI/CD deployment.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
@@ -91,7 +95,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ---
 
 ### [ContriBot](https://github.com/ContriBot-Discord)
-> Discord bot to keep a community alive, with a reward system and an admin dashboard.
+> Discord bot designed to keep communities alive through a gamified reward system. Members earn points for their activity (messages, reactions, voice presence) and unlock configurable roles as they climb the ranks.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
@@ -103,12 +107,6 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 
 > A close look at the details. My work focuses on arthropods in their natural environment.
 
-**Gear:**
-- 📷 Olympus OM-D E-M5 Mark II
-- 🔭 Olympus M.Zuiko 60mm F2.8 Macro
-- ⚡ Godox V350-O + diffuser
-- 🖥  DarkTable (post-processing)
-
 [![Photo portfolio](https://img.shields.io/badge/Photo_portfolio-anathos.me/photo-333333?style=flat&logo=astro)](https://anathos.me/photographie)
 [![Instagram](https://img.shields.io/badge/Instagram-anathos__microcosmos-333333?style=flat&logo=instagram)](https://www.instagram.com/anathos_microcosmos/)
 [![iNaturalist](https://img.shields.io/badge/iNaturalist-anathos__-333333?style=flat&logo=inaturalist)](https://www.inaturalist.org/people/anathos_)
@@ -118,6 +116,6 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=dark&show_icons=true&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=dark&layout=compact&hide_border=true&bg_color=00000000" />
 </div>
