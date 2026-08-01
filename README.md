@@ -105,7 +105,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
 ![PyPI](https://img.shields.io/badge/-PyPI-333333?style=flat&logo=pypi)
 
---
+---
 
 ### [ContriBot](https://github.com/ContriBot-Discord)
 > Discord bot designed to keep communities alive through a gamified reward system. Members earn points for their activity (messages, reactions, voice presence) and unlock configurable roles as they climb the ranks.
