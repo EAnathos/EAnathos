@@ -62,6 +62,8 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![uv](https://img.shields.io/badge/-uv-333333?style=flat&logo=uv)
+![Ruff](https://img.shields.io/badge/-Ruff-333333?style=flat&logo=ruff)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=claude)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -94,6 +96,16 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
 
 ---
+
+### [Selenium Screenshot Compare](https://pypi.org/project/selenium-screenshot-compare/) · [GitHub](https://github.com/EAnathos/selenium-screenshot-compare)
+> 🔍 Compare a website's rendering between two Firefox versions driven in parallel via Selenium. At each navigation step, both full-page renders are captured and their pixel difference is measured. Usable from plain Python or as a Robot Framework library.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
+![PyPI](https://img.shields.io/badge/-PyPI-333333?style=flat&logo=pypi)
+
+--
 
 ### [ContriBot](https://github.com/ContriBot-Discord)
 > Discord bot designed to keep communities alive through a gamified reward system. Members earn points for their activity (messages, reactions, voice presence) and unlock configurable roles as they climb the ranks.
