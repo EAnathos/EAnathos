@@ -63,6 +63,8 @@ Pour me décrire brièvement : je suis légèrement obsédé par l'architecture 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=claude)
+![uv](https://img.shields.io/badge/-uv-333333?style=flat&logo=uv)
+![Ruff](https://img.shields.io/badge/-Ruff-333333?style=flat&logo=ruff)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -74,7 +76,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par l'architecture 
 ## 🚀 Projets
 
 ### [Ant-ID Training](https://ant-id-training.anathos.me/) · [GitHub](https://github.com/EAnathos/antIdTraining)
-> 🐜 Plateforme interactive pour apprendre l'identification des fourmis. Explore une base de données taxonomique structurée et entraîne-toi via des quiz d'identification basés sur des spécimens réels — l'outil que j'aurais aimé avoir en démarrant l'élevage. Architecture monorepo avec API strictement typée, couche de données Prisma, et services conteneurisés prêts pour un déploiement CI/CD.
+> Plateforme interactive pour apprendre l'identification des fourmis. Explore une base de données taxonomique structurée et entraîne-toi via des quiz d'identification basés sur des spécimens réels — l'outil que j'aurais aimé avoir en démarrant l'élevage. Architecture monorepo avec API strictement typée, couche de données Prisma, et services conteneurisés prêts pour un déploiement CI/CD.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React%2019-61DAFB?style=flat&logo=react)
@@ -85,13 +87,23 @@ Pour me décrire brièvement : je suis légèrement obsédé par l'architecture 
 ---
 
 ### [Puzzle Multiplayer](https://puzzle-multiplayer.anathos.me/) · [GitHub](https://github.com/EAnathos/puzzle)
-> 🧩 Puzzle collaboratif en temps réel. Plusieurs joueurs assemblent la même image ensemble sans compte : rejoins une partie avec un code et un pseudo, et regarde les curseurs et les pièces bouger en direct. État de jeu autoritatif côté serveur, aimantation magnétique des pièces, trois niveaux de difficulté (25 / 100 / 400 pièces).
+> Puzzle collaboratif en temps réel. Plusieurs joueurs assemblent la même image ensemble sans compte : rejoins une partie avec un code et un pseudo, et regarde les curseurs et les pièces bouger en direct. État de jeu autoritatif côté serveur, aimantation magnétique des pièces, trois niveaux de difficulté (25 / 100 / 400 pièces).
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+
+---
+
+### [Selenium Screenshot Compare](https://pypi.org/project/selenium-screenshot-compare/) · [GitHub](https://github.com/EAnathos/selenium-screenshot-compare)
+> Compare le rendu d'un site web entre deux versions de Firefox pilotées en parallèle via Selenium. À chaque étape de navigation, les deux rendus pleine page sont capturés et leur différence pixel par pixel est mesurée. Utilisable en Python pur ou comme librairie Robot Framework.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
+![PyPI](https://img.shields.io/badge/-PyPI-333333?style=flat&logo=pypi)
 
 ---
 
