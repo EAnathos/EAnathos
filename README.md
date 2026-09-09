@@ -49,6 +49,7 @@ To describe myself briefly: I'm slightly obsessed with clean architecture, which
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Drizzle](https://img.shields.io/badge/-Drizzle-333333?style=flat&logo=drizzle)
 
 ### Testing & CI/CD
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-333333?style=flat&logo=robotframework)
