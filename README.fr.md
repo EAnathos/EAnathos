@@ -98,7 +98,7 @@ Pour me décrire brièvement : je suis légèrement obsédé par l'architecture 
 
 ---
 
-### [Selenium Screenshot Compare](https://pypi.org/project/selenium-screenshot-compare/) · [GitHub](https://github.com/EAnathos/selenium-screenshot-compare)
+### [Selenium Screenshot Compare](https://pypi.org/project/selenium-screenshot-compare/) · [GitHub](https://github.com/EAnathos/puzzle-multiplayer)
 > Compare le rendu d'un site web entre deux versions de Firefox pilotées en parallèle via Selenium. À chaque étape de navigation, les deux rendus pleine page sont capturés et leur différence pixel par pixel est mesurée. Utilisable en Python pur ou comme librairie Robot Framework.
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -130,6 +130,6 @@ Pour me décrire brièvement : je suis légèrement obsédé par l'architecture 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EAnathos&theme=dark&show_icons=true&hide_border=true&bg_color=00000000&locale=fr" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAnathos&theme=dark&layout=compact&hide_border=true&bg_color=00000000&locale=fr" />
-</div>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=EAnathos&show_icons=true&theme=dark&title_color=ff4d4d&icon_color=ff6b6b&text_color=c9d1d9&border_color=ff4d4d&rank_icon=github&include_all_commits=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EAnathos&theme=dark&layout=compact&title_color=ff4d4d&text_color=c9d1d9&border_color=ff4d4d" />
+</div
